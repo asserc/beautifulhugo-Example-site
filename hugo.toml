@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://beautifulh.netlify.app/"
 DefaultContentLanguage = "es"
 title = "ViejoCaos"
 # Using theme as git submodule 
